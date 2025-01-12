@@ -1,3 +1,4 @@
+import Shipsy_img from '../assets/Shipsy_img.svg'
 import project1_img from '../assets/project_1.svg';
 import project2_img from '../assets/project_2.svg';
 import project3_img from '../assets/project_3.svg';
@@ -6,7 +7,7 @@ const mywork_data = [
    {
     w_no: 1,
     w_name: "Web Design Project 1",
-    w_img: project2_img,
+    w_img: Shipsy_img,
     w_url: "https://shipsy.io/" // Add project URL here
   },
   {
