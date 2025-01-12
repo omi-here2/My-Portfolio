@@ -1,4 +1,4 @@
-import Shipsy_img from '../assets/Shipsy_img.svg'
+import Shipsy_img from '../assets/Shipsy_img.png'
 import project1_img from '../assets/project_1.svg';
 import project2_img from '../assets/project_2.svg';
 import project3_img from '../assets/project_3.svg';
